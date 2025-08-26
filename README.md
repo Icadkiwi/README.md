@@ -12,8 +12,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+Ask me anything <a href="https://github.com/Icadkiwi/Icadkiwi/issues/new"><b>here</b></a><br>
 
 <i>Happy Coding!</i> 😊
 
@@ -21,7 +20,7 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Icadkiwi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Richard Paskah's Github Stats">
 
 </br>
 </br>
@@ -29,42 +28,27 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+[![HitCount](http://hits.dwyl.com/Icadkiwi/Icadkiwi.svg)](http://hits.dwyl.com/Icadkiwi/Icadkiwi)
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://id.linkedin.com/in/richardpaskah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/icad___04" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
+### About Me
+- 🔭 I’m currently working on **cool web & mobile projects**
+- 🌱 I’m currently learning **Cloud, Machine Learning & UI/UX**
+- 💡 Fun fact: I love solving coding challenges and building creative solutions!
+- 🎯 Goal: **Contribute to open-source & build impactful apps**
 
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
------
-Credits: [ABSphreak](https://github.com/ABSphreak)
-
-Last Edited on: 30/08/2020
+### Let's Connect!
+> Follow for projects, coding tips, and experiments 🚀
